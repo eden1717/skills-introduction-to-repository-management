@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @eden1717
+/src/backend/database.py      @eden1717
+/src/backend/routers/auth.py  @eden1717
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @eden1717
